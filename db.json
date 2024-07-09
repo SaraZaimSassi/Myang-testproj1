@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Computer1",
+      "price": 4300,
+      "quantity": "60000",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": "3",
+      "name": "SmartPhone",
+      "price": 400,
+      "quantity": 900,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": "a6fb",
+      "name": "eeee",
+      "price": "30",
+      "quantity": "20",
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": "0078",
+      "name": "",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": "74a5",
+      "name": "",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": "27aa",
+      "name": "sara",
+      "price": "20",
+      "quantity": "020",
+      "selected": true,
+      "available": true
+    }
+  ]
+}
